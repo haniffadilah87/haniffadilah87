@@ -20,7 +20,7 @@ Currently learning:
 - Python
 - Godot
 
-Sometimes I make websites, sometimes I make games, and sometimes I just break my code and try to figure out why it doesn't work. 😭
+Sometimes I make websites, sometimes I make games, and sometimes I just break my code and try to figure out why it doesn't work. 
 
 ## Tools I use
 
