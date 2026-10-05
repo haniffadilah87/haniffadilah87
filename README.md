@@ -47,7 +47,7 @@ Various small websites and experiments while learning web development.
 
 ## GitHub Stats
 
-![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniffadilah87&show_icons=true&theme=dark)
 
 ---
 
